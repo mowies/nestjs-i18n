@@ -28,7 +28,7 @@
     "@nestjs/common": "^6.10.9",
     "@nestjs/core": "^6.10.9",
     "@nestjs/graphql": "^6.5.3",
-    "@nestjs/platform-express": "^6.10.3",
+    "@nestjs/platform-express": "^6.10.9",
     "@nestjs/platform-fastify": "^6.10.3",
     "@nestjs/testing": "^6.10.3",
     "@types/commander": "^2.12.2",
